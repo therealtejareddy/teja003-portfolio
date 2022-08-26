@@ -38,11 +38,7 @@ export default function MobileNavbar() {
       >
         <li className="list-none font-bold text-lg">
           <Link href="/">
-            <img
-              className="mr-3"
-              src="/static/logos/logo_full.svg"
-              width="160"
-            />
+            <h1>Teja Reddy</h1>
           </Link>
         </li>
         <button
@@ -72,6 +68,9 @@ export default function MobileNavbar() {
               </li>
             );
           })}
+          <li className="border-b border-gray-900 text-gray-100 text-sm font-semibold" >
+              <a href='/static/resume.pdf' download={true}>Resume</a>
+            </li>
         </ul>
       )}
     </nav>
