@@ -13,7 +13,7 @@ function About() {
         </p>
         <br/>
         <p>
-          I'm a final year engineering graduate in Computer Science and Engineering at Saveetha Engineering College, Chennai with 80% aggregate
+          I'm a final year engineering graduate pursuing Bachelors in Computer Science and Engineering at Saveetha Engineering College, Chennai with 80% aggregate
         </p>
       </div>
     </div>
