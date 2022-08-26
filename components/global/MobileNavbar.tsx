@@ -69,7 +69,7 @@ export default function MobileNavbar() {
             );
           })}
           <li className="border-b border-gray-900 text-gray-100 text-sm font-semibold" >
-              <a href='/static/resume.pdf' download={true}>Resume</a>
+              <a href='/static/resume.pdf' className="flex w-auto pb-4" download={true}>Resume</a>
             </li>
         </ul>
       )}
