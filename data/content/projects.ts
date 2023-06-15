@@ -71,6 +71,15 @@ const projects: Project[] = [
     github: "https://github.com/teja003/first-html-css-landing-page",
     tags: ["HTML", "CSS", "Javascript"],
   },
+  {
+    id: 8,
+    title: "Kryptonit - All your Web3 At One Place for Polygon",
+    desc: "Worlds first web3 decentralised application introduced portfolio tracking includes both tokens and NFT, swapping protocol to swap assets, fait onramp, transaction history viewer and transfers history viewer built on Polygon.",
+    img: "/static/projects/kryptonit.PNG",
+    link: "https://kryptonit.vercel.app/",
+    github: "https://github.com/teja003/kryptonit",
+    tags: ["HTML", "CSS", "Javascript", "Svelte", "Sveltekit", "Tailwind"],
+  },
 ];
 
 export const allTags = []
