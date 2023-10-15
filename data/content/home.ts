@@ -68,4 +68,16 @@ export const skills: Skill[] = [
     title:"MySQL",
     icon:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
   },
+  {
+    title: "AWS",
+    icon:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  },
+  {
+    title: "Kotlin",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+  },
+  {
+    title:"Android Studio",
+    icon:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+  }
 ];
